@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**PringlePot/PringlePot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am PringlePot, I develop stupid things in online classes. 
 
-Here are some ideas to get you started:
+```java
+public class Pringles implements Pot, Pringle {
+    public void getFunFact() {
+        return "I like pringles!";
+    }
+    
+    public void getCodeInfo() {
+        public String[] currentProjects = ["Higure", "Lunar Fork"];
+        public String[] whatTheFuckAmILearning = ["Java", "Typescript", "NextJS"];
+        return "As you can see, just random stuff lol";
+    }
+    
+    public void getContactInfo() {
+        return "For contact message me on discord: Pringle Pot#5756";
+    }
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Stats
+![PringlePot' Github Stats](https://github-readme-stats.vercel.app/api?username=PringlePot&show_icons=true&theme=dark)
