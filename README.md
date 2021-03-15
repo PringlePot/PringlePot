@@ -15,7 +15,7 @@ public class Pringles implements Pot, Pringle {
     }
     
     public void getContactInfo() {
-        return "For contact message me on discord: Pringle Pot#5756";
+        return "For contact message me on discord: Pringles#0001";
     }
 }
 ```
