@@ -21,3 +21,6 @@ public class Pringles implements Pot, Pringle {
 
 ### Github Stats
 ![PringlePot' Github Stats](https://github-readme-stats.vercel.app/api?username=PringlePot&show_icons=true&theme=dark)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
