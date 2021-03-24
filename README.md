@@ -22,6 +22,8 @@ public class Pringles implements Pot, Pringle {
 ### Github Stats
 ![PringlePot' Github Stats](https://github-readme-stats.vercel.app/api?username=PringlePot&show_icons=true&theme=dark)
 
+<details>
+  <summary>Detailed Stats</summary>
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3567%20lines%20of%20code-blue)
 
@@ -85,3 +87,4 @@ Kotlin                   1 repo              ████████░░░�
 
 
 <!--END_SECTION:waka-->
+</details>
