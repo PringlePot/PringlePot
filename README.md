@@ -9,9 +9,8 @@ public class Pringles implements Pot, Pringle {
     }
     
     public void getCodeInfo() {
-        public String[] currentProjects = ["Higure", "Lunar Fork"];
-        public String[] whatTheFuckAmILearning = ["Java", "Typescript", "NextJS"];
-        return "As you can see, just random stuff lol";
+        public String[] currentProjects = ["Fall Network", "Higure", "Lunar Fork"];
+        public String[] whatTheFuckAmILearning = ["Kotlin", "Java", "Typescript", "NextJS"];
     }
     
     public void getContactInfo() {
