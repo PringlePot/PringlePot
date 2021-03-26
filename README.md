@@ -30,7 +30,7 @@ public class Pringles implements Pot, Pringle {
 
 **🐱 My Github Data** 
 
-> 🏆 37 Contributions in the Year 2021
+> 🏆 50 Contributions in the Year 2021
  > 
 > 📦 72.6 kB Used in Github's Storage 
  > 
