@@ -4,7 +4,7 @@ I am PringlePot, I develop stupid things in online classes.
 
 ```java
 public class Pringles implements Pringle {
-    public String void getFunFact() {
+    public String getFunFact() {
         return "I like pringles!";
     }
     
