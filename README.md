@@ -13,7 +13,7 @@ public class Pringles implements Pot, Pringle {
         public String[] whatTheFuckAmILearning = ["Kotlin", "Java", "Typescript", "NextJS"];
     }
     
-    public void getContactInfo() {
+    public String getContactInfo() {
         return "For contact message me on discord: Pringles#0001";
     }
 }
