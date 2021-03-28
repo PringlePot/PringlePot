@@ -3,8 +3,8 @@
 I am PringlePot, I develop stupid things in online classes. 
 
 ```java
-public class Pringles implements Pot, Pringle {
-    public void getFunFact() {
+public class Pringles implements Pringle {
+    public String void getFunFact() {
         return "I like pringles!";
     }
     
