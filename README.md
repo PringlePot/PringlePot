@@ -30,13 +30,13 @@ public class Pringles implements Pringle {
 
 **🐱 My Github Data** 
 
-> 🏆 75 Contributions in the Year 2021
+> 🏆 76 Contributions in the Year 2021
  > 
 > 📦 72.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 1 Public Repository 
+> 📜 2 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
