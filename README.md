@@ -18,7 +18,7 @@ public class Pringles implements Pringle {
     }
 }
 ```
-![Discord](https://discord.c99.nl/widget/theme-4/226911291636318208.png)
+![Discord](https://discord.c99.nl/widget/theme-1/226911291636318208.png)
 
 
 ### Github Stats
