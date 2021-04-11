@@ -18,6 +18,8 @@ public class Pringles implements Pringle {
     }
 }
 ```
+![Discord](https://discord.c99.nl/widget/theme-4/226911291636318208.png)
+
 
 ### Github Stats
 ![PringlePot' Github Stats](https://github-readme-stats.vercel.app/api?username=PringlePot&show_icons=true&theme=dark)
