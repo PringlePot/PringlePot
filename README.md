@@ -9,7 +9,7 @@ public class Pringles implements Pringle {
     }
     
     public void getCodeInfo() {
-        public String[] currentProjects = ["Fall Network"];
+        public String[] currentProjects = ["Nothing, I have nothing to do in my break."];
         public String[] whatTheFuckAmILearning = ["Kotlin", "Java", "Typescript", "NextJS"];
     }
     
