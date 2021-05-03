@@ -32,13 +32,13 @@ public class Pringles implements Pringle {
 
 **🐱 My Github Data** 
 
-> 🏆 313 Contributions in the Year 2021
+> 🏆 312 Contributions in the Year 2021
  > 
 > 📦 84.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 3 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
  > 
@@ -83,8 +83,9 @@ IntelliJ                 12 hrs 13 mins      ███████████�
 **I Mostly Code in Java** 
 
 ```text
-Java                     5 repos             ████████████████████░░░░░   83.33% 
-Kotlin                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+Java                     5 repos             █████████████████░░░░░░░░   71.43% 
+Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Kotlin                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
 
