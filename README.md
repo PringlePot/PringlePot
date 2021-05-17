@@ -14,7 +14,7 @@ public class Pringles implements Pringle {
     }
     
     public String getContactInfo() {
-        return "For contact message me on discord: Pringles#0001";
+        return "For contact message me on discord: Pringles#8249";
     }
 }
 ```
