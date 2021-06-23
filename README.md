@@ -32,7 +32,7 @@ public class Pringles implements Pringle {
 
 **🐱 My Github Data** 
 
-> 🏆 305 Contributions in the Year 2021
+> 🏆 306 Contributions in the Year 2021
  > 
 > 📦 86.2 kB Used in Github's Storage 
  > 
@@ -93,6 +93,6 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2021
+ Last Updated on 23/06/2021
 <!--END_SECTION:waka-->
 </details>
