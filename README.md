@@ -32,7 +32,7 @@ public class Pringles implements Pringle {
 
 **🐱 My Github Data** 
 
-> 🏆 526 Contributions in the Year 2021
+> 🏆 527 Contributions in the Year 2021
  > 
 > 📦 86.3 kB Used in Github's Storage 
  > 
