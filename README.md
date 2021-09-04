@@ -34,7 +34,7 @@ public class Pringles implements Pringle {
 
 > 🏆 603 Contributions in the Year 2021
  > 
-> 📦 89.6 kB Used in Github's Storage 
+> 📦 90.0 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
