@@ -22,7 +22,7 @@ public class Pringles implements Pringle {
 
 
 ### Github Stats
-![PringlePot' Github Stats](https://github-readme-stats.vercel.app/api?username=PringlePot&show_icons=true&theme=dark)
+![PringlePot' Github Stats](https://github-readme-stats.vercel.app/api?username=PringlePot&show_icons=true&theme=dark&count_private=true)
 
 <details>
   <summary>Detailed Stats</summary>
