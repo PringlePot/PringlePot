@@ -15,7 +15,7 @@ I like cats 🐱, I am currently learning [NestJS](https://nestjs.com) and [Next
  - ReactJS / NextJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="15" height="15"/>
  - PostgreSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="15" height="15"/>
  - NodeJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="15" height="15"/>
- - NestJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="15" height="15"/>
+ - NestJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="15" height="15"/>
  - Fastify <img src="https://devicons.railway.app/i/fastify-dark.svg" alt="fastify" width="15" height="15"/>
 
 ### Github Stats
