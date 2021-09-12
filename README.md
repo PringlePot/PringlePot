@@ -1,24 +1,5 @@
-### Hi there 👋
+### Hi there I am Pringles 👋
 
-I am PringlePot, I develop stupid things in online classes. 
-
-```java
-public class Pringles implements Pringle {
-    public String getFunFact() {
-        return "I like pringles!";
-    }
-    
-    public void getCodeInfo() {
-        public String[] currentProjects = ["Imgs.bar (REEEEE)", "Myth Sniper (Dead)"];
-        public String[] whatTheFuckAmILearning = ["Kotlin", "Java", "Typescript", "NextJS"];
-    }
-    
-    public String getContactInfo() {
-        return "For contact message me on discord: Pringles#8249";
-    }
-}
-```
-![Discord](https://discord.c99.nl/widget/theme-1/226911291636318208.png)
 
 
 ### Github Stats
@@ -95,4 +76,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
  Last Updated on 12/09/2021
 <!--END_SECTION:waka-->
+
 </details>
