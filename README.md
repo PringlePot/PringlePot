@@ -25,7 +25,7 @@ I like cats 🐱, I am currently learning [NestJS](https://nestjs.com) and [Next
   <summary>Detailed Stats</summary>
     
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-132497%20lines%20of%20code-blue)
 
@@ -91,11 +91,11 @@ Windows                  1 hr 38 mins        ███████████�
 **I Mostly Code in Java** 
 
 ```text
-Java                     6 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+Java                     6 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 
 ```
 
@@ -105,7 +105,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PringlePot/PringlePot/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/10/2021
+ Last Updated on 24/10/2021
 <!--END_SECTION:waka-->
 
 </details>
