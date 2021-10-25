@@ -25,7 +25,7 @@ I like cats 🐱, I am currently learning [NestJS](https://nestjs.com) and [Next
   <summary>Detailed Stats</summary>
     
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-132497%20lines%20of%20code-blue)
 
@@ -70,21 +70,16 @@ Sunday       146 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-JavaScript               1 hr 27 mins        ██████████████████████░░░   88.67% 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.96% 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.56% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 38 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Launcher                 1 hr 33 mins        ███████████████████████░░   94.66% 
-Backend                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.23% 
-site                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 38 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -105,7 +100,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PringlePot/PringlePot/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/10/2021
+ Last Updated on 25/10/2021
 <!--END_SECTION:waka-->
 
 </details>
