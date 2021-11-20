@@ -33,7 +33,7 @@ I like cats 🐱, I am currently learning [NestJS](https://nestjs.com) and [Next
 
 > 🏆 755 Contributions in the Year 2021
  > 
-> 📦 90.3 kB Used in GitHub's Storage 
+> 📦 90.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -103,7 +103,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PringlePot/PringlePot/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/11/2021
+ Last Updated on 20/11/2021
 <!--END_SECTION:waka-->
 
 </details>
