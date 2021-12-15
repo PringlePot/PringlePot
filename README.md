@@ -1,22 +1,6 @@
 ### Hi there I am Pringles 👋
 
-I like cats 🐱, I am currently learning [NestJS](https://nestjs.com) and [NextJS](https://nextjs.org).
-
-## Languages I (try to) code in:
- - Typescript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="15" height="15"/>
- - Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="15" height="15"/>
- - Golang <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="15" height="15"/>
- - Javascript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/>
- - Kotlin <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="15" height="15"/>
-
-## Interested In:
- - Docker <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="15" height="15"/>
- - Redis <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="15" height="15"/>
- - ReactJS / NextJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="15" height="15"/>
- - PostgreSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="15" height="15"/>
- - NodeJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="15" height="15"/>
- - NestJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="15" height="15"/>
- - Fastify <img src="https://devicons.railway.app/i/fastify-dark.svg" alt="fastify" width="15" height="15"/>
+Bonjourno,
 
 ### Github Stats
 ![PringlePot' Github Stats](https://github-readme-stats.vercel.app/api?username=PringlePot&show_icons=true&theme=dark&count_private=true)
