@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: '0 00 * * *'
   workflow_dispatch:
+  push:
 jobs:
   update-readme:
     name: Update Readme with Metrics
