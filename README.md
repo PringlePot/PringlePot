@@ -1,6 +1,6 @@
 ### Hi there I am Pringles 👋
 
-Bonjourno,
+Bonjourno
 
 ### Github Stats
 ![PringlePot' Github Stats](https://github-readme-stats.vercel.app/api?username=PringlePot&show_icons=true&theme=dark&count_private=true)
