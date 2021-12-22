@@ -9,6 +9,8 @@ Bonjourno
   <summary>Detailed Stats</summary>
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2028%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-110%20Thousand%20lines%20of%20code-blue)
@@ -54,16 +56,21 @@ Sunday       146 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 5 mins        █████████████████████░░░░   83.53% 
+JSON                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.39% 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 42 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Bot                      3 hrs 40 mins       ████████████████████████░   99.42% 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 42 mins       █████████████████████████   100.0%
 
 ```
 
