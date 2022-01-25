@@ -9,7 +9,7 @@ Bonjourno
   <summary>Detailed Stats</summary>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -86,7 +86,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PringlePot/PringlePot/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/01/2022 00:50:11 UTC
+ Last Updated on 25/01/2022 00:43:04 UTC
 <!--END_SECTION:waka-->
 
 </details>
