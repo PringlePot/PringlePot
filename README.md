@@ -95,7 +95,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PringlePot/PringlePot/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/01/2022 00:43:35 UTC
+ Last Updated on 27/01/2022 00:45:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
