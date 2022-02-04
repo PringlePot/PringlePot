@@ -10,8 +10,6 @@ Bonjourno
   <summary>Detailed Stats</summary>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2031%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-110%20Thousand%20lines%20of%20code-blue)
@@ -20,7 +18,7 @@ Bonjourno
 
 > 🏆 30 Contributions in the Year 2022
  > 
-> 📦 90.5 kB Used in GitHub's Storage 
+> 📦 90.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -94,7 +92,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PringlePot/PringlePot/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/02/2022 00:54:53 UTC
+ Last Updated on 04/02/2022 00:33:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
