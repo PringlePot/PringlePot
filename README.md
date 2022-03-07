@@ -20,7 +20,7 @@ Bonjourno
 
 > 🏆 219 Contributions in the Year 2022
  > 
-> 📦 90.9 kB Used in GitHub's Storage 
+> 📦 90.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,7 +88,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PringlePot/PringlePot/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/03/2022 00:52:31 UTC
+ Last Updated on 07/03/2022 00:44:11 UTC
 <!--END_SECTION:waka-->
 
 </details>
