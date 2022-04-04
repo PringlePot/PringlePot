@@ -12,7 +12,7 @@ Bonjourno
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-110%20Thousand%20lines%20of%20code-blue)
 
@@ -93,7 +93,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PringlePot/PringlePot/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/04/2022 00:58:07 UTC
+ Last Updated on 04/04/2022 00:47:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
