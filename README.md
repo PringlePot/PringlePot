@@ -10,9 +10,7 @@ Bonjourno
   <summary>Detailed Stats</summary>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2028%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-110%20Thousand%20lines%20of%20code-blue)
 
@@ -20,7 +18,7 @@ Bonjourno
 
 > 🏆 303 Contributions in the Year 2022
  > 
-> 📦 91.0 kB Used in GitHub's Storage 
+> 📦 91.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,7 +91,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PringlePot/PringlePot/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/04/2022 01:02:15 UTC
+ Last Updated on 10/04/2022 00:47:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
