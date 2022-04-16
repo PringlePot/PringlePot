@@ -10,6 +10,8 @@ Bonjourno
   <summary>Detailed Stats</summary>
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%2013%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-110%20Thousand%20lines%20of%20code-blue)
@@ -55,17 +57,18 @@ Sunday       188 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Go                       1 hr 38 mins        ████████████████████████░   95.51% 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.49%
+Go                       1 hr 40 mins        ████████████████████████░   95.61% 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.39% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-GoLand                   1 hr 43 mins        █████████████████████████   100.0%
+GoLand                   1 hr 45 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Backend                  1 hr 43 mins        █████████████████████████   100.0%
+Backend                  1 hr 45 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 43 mins        █████████████████████████   100.0%
+Windows                  1 hr 45 mins        █████████████████████████   100.0%
 
 ```
 
@@ -86,7 +89,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PringlePot/PringlePot/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/04/2022 00:46:18 UTC
+ Last Updated on 16/04/2022 00:52:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
