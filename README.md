@@ -10,15 +10,13 @@ Bonjourno
   <summary>Detailed Stats</summary>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2049%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-110%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 310 Contributions in the Year 2022
+> 🏆 312 Contributions in the Year 2022
  > 
 > 📦 91.0 kB Used in GitHub's Storage 
  > 
@@ -83,11 +81,11 @@ Windows                  12 hrs              ███████████�
 **I Mostly Code in Java** 
 
 ```text
-Java                     7 repos             ██████████░░░░░░░░░░░░░░░   41.18% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+Java                     8 repos             ███████████░░░░░░░░░░░░░░   44.44% 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 
 ```
 
@@ -97,7 +95,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PringlePot/PringlePot/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/05/2022 01:05:43 UTC
+ Last Updated on 05/05/2022 00:54:32 UTC
 <!--END_SECTION:waka-->
 
 </details>
