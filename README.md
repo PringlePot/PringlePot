@@ -20,7 +20,7 @@ Bonjourno
 
 > 🏆 332 Contributions in the Year 2022
  > 
-> 📦 91.2 kB Used in GitHub's Storage 
+> 📦 91.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,7 +97,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PringlePot/PringlePot/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/05/2022 01:02:29 UTC
+ Last Updated on 23/05/2022 00:51:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
