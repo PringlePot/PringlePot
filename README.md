@@ -1,7 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/abd317df-612e-44b4-8787-15db7b574b2f.svg)](https://wakatime.com/@abd317df-612e-44b4-8787-15db7b574b2f)
 ### Hi there I am Pringles 👋
 
-Bonjourno
+Currently working on [nest.rip](https://nest.rip)
 
 ### Github Stats
 ![PringlePot' Github Stats](https://github-readme-stats.vercel.app/api?username=PringlePot&show_icons=true&theme=dark&count_private=true)
