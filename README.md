@@ -10,9 +10,9 @@ Currently working on [nest.rip](https://nest.rip)
   <summary>Detailed Stats</summary>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-532%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-139%20Thousand%20lines%20of%20code-blue)
 
@@ -20,7 +20,7 @@ Currently working on [nest.rip](https://nest.rip)
 
 > 🏆 335 Contributions in the Year 2022
  > 
-> 📦 91.1 kB Used in GitHub's Storage 
+> 📦 104.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,7 +81,7 @@ Windows                  16 hrs 35 mins      ███████████�
 ```
 
 
- Last Updated on 24/05/2022 00:57:01 UTC
+ Last Updated on 25/05/2022 00:56:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
