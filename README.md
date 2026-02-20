@@ -21,6 +21,6 @@ Current projects include: <a href="https://nest.rip">nest.rip</a> and <a href="h
 <!-- I know I know, I can just do it in one <p> but i cba with css yk --> 
 <p align="center" >
    <a href="https://github.com/PringlePot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PringlePot&show_icons=true&theme=dark&count_private=true" alt="PringlePot' Github Stats"/>
+    <img align="center" src="https://github-stats-extended.vercel.app/api?username=PringlePot&include_all_commits=true&theme=dark" alt="PringlePot' Github Stats"/>
    </a>
 </p>
